@@ -19,7 +19,7 @@ This repository contains a script that automates the process of scraping LeetCod
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/xiao_tuor/Leetcode_Obsidian.git
+    git clone https://github.com/xiaotuor/Leetcode_Obsidian.git
     cd Leetcode_Obsidian
     ```
 
