@@ -51,6 +51,7 @@ This repository contains a script that automates the process of scraping LeetCod
 ## Folder Structure
 
 The script creates a folder structure where each problem type is a folder, and each problem is saved as a Markdown file within its respective type folder. Example:
+```python
 obsidian_folder_path/
 ├── Array
 │ ├── Problem 1.md
@@ -61,7 +62,7 @@ obsidian_folder_path/
 │ ├── Problem 2.md
 │ └── ...
 └── ...
-
+```
 
 ## Contributing
 
